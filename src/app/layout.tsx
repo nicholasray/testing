@@ -10,7 +10,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <div>TestLayout</div>
-        <div><Link href={"/article"}>Article</Link></div>
+        <div><Link href={"/test"}>Test</Link></div>
         {children}
       </body>
     </html>
