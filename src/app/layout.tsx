@@ -12,7 +12,7 @@ export default function RootLayout({
         <div>TestLayout</div>
         <div><Link href={"/article"}>Article</Link></div>
         {children}
-        </body>
+      </body>
     </html>
   )
 }
