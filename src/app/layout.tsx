@@ -11,7 +11,6 @@ export default function RootLayout({
       <body>
         <div>TestLayout</div>
         <div><Link href={"/article"}>Article</Link></div>
-        <div><Link href={"/blog"}>Blog</Link></div>
         {children}
         </body>
     </html>
