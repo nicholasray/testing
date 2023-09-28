@@ -9,7 +9,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <div>BlahLayout</div>
+        <div>BlahLayout This is some text</div>
         <div><Link href={"/test"}>Blah</Link></div>
         {children}
       </body>
